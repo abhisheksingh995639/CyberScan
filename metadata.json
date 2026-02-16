@@ -1,0 +1,5 @@
+{
+  "name": "Final CyberScan 3D URL Analyzer",
+  "description": "A high-end cybersecurity tool that visualizes URL server locations on a holographic 3D globe with real-time risk assessment powered by Gemini.",
+  "requestFramePermissions": []
+}
